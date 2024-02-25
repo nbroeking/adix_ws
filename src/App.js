@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Adix workforce solutions is under construction!
+          Adix Workforce Solutions is under construction!
         </p>
       </header>
     </div>
