@@ -8,6 +8,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### Deploy
+`npm run deploy`
+
+This web app is deployed via gh-pages.
+
+
 In the project directory, you can run:
 
 ### `npm start`
