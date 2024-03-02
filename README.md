@@ -6,6 +6,8 @@ This is a landing page for the adix workforce solutions company landing page.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Docs for landing page style -> https://hermanya.github.io/react-landing-page/getting-started
+
 ## Available Scripts
 
 ### Deploy
