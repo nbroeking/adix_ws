@@ -66,7 +66,7 @@ function App() {
             <Feature icon="⛔️" description="Develop a clear and adaptable framework to effectively manage and mitigate labor risks, improve communications and reduce conflicts between leadership and staff">
               Avoid
             </Feature>
-            <Feature icon="📩" description="Implement a tiered accountability framework extending from executive leadership to front-line supervisors, promote the adoption of practices to significantly increase pipeline for key roles, boost employee engagement and support retention">
+            <Feature icon="📈" description="Implement a tiered accountability framework extending from executive leadership to front-line supervisors, promote the adoption of practices to significantly increase pipeline for key roles, boost employee engagement and support retention">
               Accelerate
             </Feature>
           </Flex>
